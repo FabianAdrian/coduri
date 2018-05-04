@@ -1,1 +1,10 @@
 creare fisier pe github
+$ cd /e/test/verificare/coduri/
+$ git init
+
+$ git clone https://github.com/FabianAdrian/coduri.git
+$ git add coduri.txt
+$ git commit -am" coduri "
+$ git push
+
+
